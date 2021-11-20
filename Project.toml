@@ -1,0 +1,10 @@
+name = "CairoColors.jl"
+uuid = "80e24cd0-f40c-4da0-a5c2-6dfc11ef3cf5"
+authors = ["Pierre Baconnier <pierre.baconnier@outlook.fr>"]
+version = "0.2.0"
+
+[deps]
+Cairo = "159f3aea-2a34-519c-b102-8c37f9878175"
+
+[compat]
+julia = "1.5.3"
